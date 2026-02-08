@@ -1,18 +1,18 @@
 {
   "TEST01": {
     "id": "TEST",
-    "isToken": false,
+    "isToken": falso,
     "face": {
       "front": {
-        "name": "",
-        "type": false,
+        "name": "Character Test",
+        "type": Character,
         "cost": 0,
         "image": "https://cdn.discordapp.com/attachments/1469865807725985832/1469867267897688258/Character_Name.png?ex=69893811&is=6987e691&hm=3549ab6e948414f557ba44436aa82b19bd61683c2a91301d1699a062f3483b42",
         "isHorizontal": false
       }
     },
     "name": "Character Test",
-    "type": false,
+    "type": Character,
     "cost": 0
   }
 }
