@@ -20,7 +20,7 @@
       "Effect",
       "Action"
     ],
-    "formats": []
+    "formats": [Standard]
   },
   "gameplay": {
     "Classic": {
