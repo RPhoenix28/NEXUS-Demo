@@ -54,7 +54,7 @@
       "front": {
         "name": "Hero Test",
         "type": "Hero",
-        "cost": 0,
+        "cost": "1",
         "image": "https://cdn.discordapp.com/attachments/1469865807725985832/1470164680071844072/86xJkfAAAABklEQVQDACbQLnN8uYcWAAAAAElFTkSuQmCC.png?ex=698a4d0e&is=6988fb8e&hm=7e892acdc4ad1bf383885987f6d7fb120af674e5cc285d858056dbfe65c43ee4",
         "isHorizontal": false
       }
