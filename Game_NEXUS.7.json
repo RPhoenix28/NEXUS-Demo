@@ -116,8 +116,8 @@
           "Hero Zone": {
             "title": "Hero Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -132,7 +132,7 @@
           "Front Zone": {
             "title": "Front Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -148,8 +148,8 @@
           "Energy Zone": {
             "title": "Energy Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -164,7 +164,7 @@
           "Back Zone": {
             "title": "Back Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -180,8 +180,8 @@
           "Effect Zone": {
             "title": "New_Section",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
