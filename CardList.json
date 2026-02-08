@@ -1,7 +1,7 @@
 {
   "TEST01": {
     "id": "TEST",
-    "isToken": falso,
+    "isToken": false,
     "face": {
       "front": {
         "name": "Character Test",
