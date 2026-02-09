@@ -66,7 +66,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Hero Zone",
+                  "section": "Hero",
                   "style": {
                     "width": "15vh"
                   }
@@ -124,22 +124,6 @@
           "Action": "Discard"
         },
         "sectionsDict": {
-          "Hero Zone": {
-            "title": "Hero",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "HERO",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Front Zone": {
             "title": "Front Zone",
             "isHidden": "no",
@@ -197,6 +181,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "EFFECT",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Hero": {
+            "title": "Hero",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "HERO",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
